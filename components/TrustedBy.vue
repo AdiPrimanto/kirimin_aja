@@ -30,75 +30,75 @@ export default {
         return {
             logos: [
                 {
-                    id: '1',
+                    id: 1,
                     img: 'https://kiriminaja.com/assets/atrust/client-arcelle-2.png',
                 },
                 {
-                    id: '2',
+                    id: 2,
                     img: 'https://kiriminaja.com/assets/home-2/blanja24.png',
                 },
                 {
-                    id: '3',
+                    id: 3,
                     img: 'https://kiriminaja.com/assets/atrust/client-bakpia.png',
                 },
                 {
-                    id: '4',
+                    id: 4,
                     img: 'https://kiriminaja.com/assets/atrust/logo_dion_farma.png',
                 },
                 {
-                    id: '5',
+                    id: 5,
                     img: '	https://kiriminaja.com/assets/atrust/logo_natasha.png',
                 },
                 {
-                    id: '6',
+                    id: 6,
                     img: 'https://kiriminaja.com/assets/atrust/logo_paeko.png',
                 },
                 {
-                    id: '7',
+                    id: 7,
                     img: 'https://kiriminaja.com/assets/atrust/client-diy.png',
                 },
                 {
-                    id: '8',
+                    id: 8,
                     img: 'https://kiriminaja.com/assets/atrust/client-nimco.png',
                 },
                 {
-                    id: '9',
+                    id: 9,
                     img: 'https://kiriminaja.com/assets/atrust/client-finna-1.png',
                 },
                 {
-                    id: '10',
+                    id: 10,
                     img: '	https://kiriminaja.com/assets/atrust/client-sibakul.png',
                 },
                 {
-                    id: '11',
+                    id: 11,
                     img: 'https://kiriminaja.com/assets/atrust/client-clandys.png',
                 },
                 {
-                    id: '12',
+                    id: 12,
                     img: 'https://kiriminaja.com/assets/atrust/client-hayyana-1.png',
                 },
                 {
-                    id: '13',
+                    id: 13,
                     img: '',
                 },
                 {
-                    id: '14',
+                    id: 14,
                     img: 'https://kiriminaja.com/assets/atrust/efes-efes.png',
                 },
                 {
-                    id: '15',
+                    id: 15,
                     img: 'https://kiriminaja.com/assets/atrust/client-yukbid-2.png',
                 },
                 {
-                    id: '16',
+                    id: 16,
                     img: 'https://kiriminaja.com/assets/atrust/client-misseana.png',
                 },
                 {
-                    id: '17',
+                    id: 17,
                     img: 'https://kiriminaja.com/assets/atrust/client-inolabs-1.png',
                 },
                 {
-                    id: '18',
+                    id: 18,
                     img: '',
                 },
             ],

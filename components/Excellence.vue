@@ -38,37 +38,37 @@ export default {
         return {
             packets: [
                 {
-                    id: '1',
+                    id: 1,
                     img: '/images/kebutuhan-pengiriman/layanan-terintegrasi.svg',
                     title: 'Layanan Terintegrasi',
                     body: 'Dashboard, API, Dan Mobile kami sediakan untuk mengontrol & monitoring lebih mudah.',
                 },
                 {
-                    id: '2',
+                    id: 2,
                     img: '/images/kebutuhan-pengiriman/ekspedisi-terbaik.svg',
                     title: 'Ekspedisi Terbaik',
                     body: 'Kamu bisa pilih layanan sameday, next day, reguler, ekonomi, kargo dan lainya sesukamu.',
                 },
                 {
-                    id: '3',
+                    id: 3,
                     img: '/images/kebutuhan-pengiriman/sistem-otomatis.svg',
                     title: 'Sistem Otomatis',
                     body: 'Cetak resi / AWB, tracking, saldo COD dan banyak fitur lainnya.',
                 },
                 {
-                    id: '4',
+                    id: 4,
                     img: '/images/kebutuhan-pengiriman/selalu-ada.svg',
                     title: 'Selalu Ada Untukmu',
                     body: 'Kami selalu ada tanpa libur 24 Jam non stop, dan pihak ekpedisi.',
                 },
                 {
-                    id: '5',
+                    id: 5,
                     img: '/images/kebutuhan-pengiriman/laporan-aktual.svg',
                     title: 'Laporan Aktual',
                     body: 'Kemudahan pantau paket, pencairan COD, saldo, semuanya.',
                 },
                 {
-                    id: '6',
+                    id: 6,
                     img: '/images/kebutuhan-pengiriman/friendly.svg',
                     title: 'Friendly',
                     body: 'Ciptakan solusi terbaik dengan masukan, kritik, dan diskusi.',
