@@ -1,7 +1,7 @@
 <template>
     <section class="mb-28 mx-10 md:mx-24 lg:mx-24">
         <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-2 gap-6 mt-16">
-            <div class="flex flex-col gap-4">
+            <div class="flex flex-col gap-4 pr-10">
                 <h3 class="text-4xl text-black font-bold text-left">
                     Our Mission
                 </h3>
